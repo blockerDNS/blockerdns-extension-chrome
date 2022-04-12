@@ -7,8 +7,8 @@
 You can install the latest published version from the [Chrome Web Store](https://chrome.google.com/webstore/detail/blockerdns-ad-tracker-blo/hnbnabjejnidmgpndhgcgmbhadhnicha).
 
 ## Install from Source
-If you want to modify the code or play around with it, you can sideload it into Chrome. First download and extract the [ZIP file](https://github.com/tambeb/blockerdns-extension-chrome/archive/master.zip) or clone the repository.
+If you want to modify the code or play around with it, you can sideload it into Chrome. First download and extract the [ZIP file](https://github.com/blockerDNS/blockerdns-extension-chrome/archive/master.zip) or clone the repository.
 ```
-git clone https://github.com/tambeb/blockerdns-extension-chrome.git
+git clone https://github.com/blockerDNS/blockerdns-extension-chrome.git
 ```
 Then go to Chrome's extension settings by typing __chrome://extensions__ in the address bar, enable __Developer mode__, choose __Load unpacked__ and go to the extracted or cloned folder.
